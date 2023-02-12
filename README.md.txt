@@ -1,3 +1,2 @@
 Primeira landing page (página de destino) feita com html semântico e css.
 Fiz adptável para desktop e dispositivos móveis.
-![formato desktop] (https://previews.dropbox.com/p/thumb/AByN2vPR2d707CDt9pDgM_wZNTmT3UnvG9oROcTAAl-3naY4rcFOvBp6U1nTMRVsDhdW5xkNPvU1kmVGi0QFwJKQOOwK_7j2qqUK-pqibfOU1toV0IGz4KDlf7whwnO2fT4sq9v_XMuJEpdls0jh-DKRCRzd7Lwr92FerlN8heVmZmqLeObyfaWvoOYTcuE1B5CZJCuxsXFodmYTk04ZRrbDk9UkbIea3rQHa-3-dXT5cKHbBWOPXCCLrYhs0MZEL9VBMp4YyRvxU4oC9ybVGE_POImWdC6BlyHxujY_Xjfyr9toN4XeqyNAT3EYPMTYofUP9pv9u_m_sACKSn1dsitK7wpP5YihlUeNxbn-I8ctMMhmCk0coKinJcLWAIV0IXM/p.png)
